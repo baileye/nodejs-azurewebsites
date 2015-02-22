@@ -1,0 +1,7 @@
+{
+  "name": "Node.js Hello World",
+  "description": "Hello World Node.js app using Express 4",
+  "repository": "https://github.com/msarezki/nodejs-azurewebsites",
+  "logo": "",
+  "keywords": ["node", "express", "static"]
+}
